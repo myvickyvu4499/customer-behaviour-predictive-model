@@ -23,4 +23,5 @@ The accuracy scores for the classification model:
 1) Random Forest 89.45%
 2) Elastic Net Regression 89.60%
 3) Stacked Generalisation 89.68%
+
 Also, the Hierarchical Clustering model is more optimal compared to the K-means Clustering model for our approach.
