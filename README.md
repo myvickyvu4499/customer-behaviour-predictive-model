@@ -7,7 +7,7 @@ This analysis aims to provide the banking institutions with a predictive model t
 ### Data set
 The data set is related with direct marketing campaigns of the Portugues banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
-## Method
+### Method
 Supervised learning models learn from labelled data to identify patterns in the train data set. The models can classify and predict the new input data set without labels in the future. With supervised models, the Portuguese bank can predict new customers’ responses. This analysis uses three supervised algorithms:
 1) Random Forest
 2) Elastic Net Regression
