@@ -14,7 +14,7 @@ Supervised learning models learn from labelled data to identify patterns in the 
 3) Stacked Generalisation Ensemble
 
 Furthermore, unsupervised learning models learn from the unlabelled data set. Unsupervised learning can classify the data into new groups by discovering the underlying patterns instead of assigning labels to new input data sets like supervised learning models. Using these new groups, the bank can identify insights to predict customers' behaviours and responses based on their segmentation. Two clustering models used are:
-1) k-Mean Clustering
+1) k-Means Clustering
 2) Hierarchical Clustering
 
 ### Result
